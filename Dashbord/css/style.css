@@ -1,0 +1,11 @@
+#sidebar {
+  background-color: #000044;
+}
+#profile img {
+  max-width: 150px;
+  width: 100%;
+}
+
+#my-svg path {
+  fill: #ffffff;
+}
